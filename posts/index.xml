@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Unwilled Thoughts</title>
+    <link>https://unwilledthoughts.github.io/posts/</link>
+    <description>Recent content in Posts on Unwilled Thoughts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 20:39:37 -0500</lastBuildDate>
+    <atom:link href="https://unwilledthoughts.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://unwilledthoughts.github.io/posts/mypost/</link>
+      <pubDate>Wed, 01 Jan 2025 20:39:37 -0500</pubDate>
+      <guid>https://unwilledthoughts.github.io/posts/mypost/</guid>
+      <description>&lt;p&gt;This is some content.&lt;/p&gt;&#xA;&lt;p&gt;Hello.&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;1 \leq 2&#xA;$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
